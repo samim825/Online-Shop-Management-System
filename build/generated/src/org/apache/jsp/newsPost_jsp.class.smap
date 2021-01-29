@@ -1,0 +1,14 @@
+SMAP
+newsPost_jsp.java
+JSP
+*S JSP
+*F
++ 0 newsPost.jsp
+newsPost.jsp
+*L
+1,17:44
+18:61,3
+19,5:64
+24:69,3
+25,7:72
+*E
